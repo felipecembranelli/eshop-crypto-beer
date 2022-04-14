@@ -11,9 +11,9 @@ The frontend application was forked and adapted using the repository [e-shop](ht
 The smartcontract is deployed to KOVAN test network.
 
 
-![home](/doc/beer-crypto1.png)
+![home](/doc/beer-crypto1.PNG)
 
-![redeem](/doc/beer-crypto2.png)
+![redeem](/doc/beer-crypto1.PNG)
 
 
 ## Features
