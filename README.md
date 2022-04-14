@@ -4,15 +4,17 @@ This is a Dapp (decentralized application) sample implementation of a e-commerce
 
 The frontend application was forked and adapted using the repository [e-shop](https://github.com/james-muriithi/e-shop).
 
-![home](/doc/home.png)
-
-![redeem](/doc/redeem.png)
-
 ## Live demo
 
 [Live Demo](http://eshop-blockchain3.azurewebsites.net/)
 
 The smartcontract is deployed to KOVAN test network.
+
+
+![home](/doc/beer-crypto1.png)
+
+![redeem](/doc/beer-crypto2.png)
+
 
 ## Features
 
