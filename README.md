@@ -13,7 +13,7 @@ The smartcontract is deployed to KOVAN test network.
 
 ![home](/doc/beer-crypto1.PNG)
 
-![redeem](/doc/beer-crypto1.PNG)
+![redeem](/doc/beer-crypto2.PNG)
 
 
 ## Features
